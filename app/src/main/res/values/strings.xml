@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">VidPlayer</string>
+    <string name="nav_home">होम</string>
+    <string name="nav_search">खोजें</string>
+    <string name="nav_upload">जोड़ें</string>
+    <string name="nav_profile">प्रोफ़ाइल</string>
+    <string name="cat_all">सभी</string>
+    <string name="cat_song">लोकगीत</string>
+    <string name="cat_drama">नाटक</string>
+    <string name="cat_comedy">हास्य</string>
+    <string name="cat_story">कहानी</string>
+    <string name="cat_culture">संस्कृति</string>
+</resources>

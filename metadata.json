@@ -1,0 +1,6 @@
+{
+  "name": "VidPlayer",
+  "description": "यूट्यूब वीडियो प्लेयर ऐप - YouTube URL या Video ID से सीधे ऐप के अंदर वीडियो चलाएं",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
